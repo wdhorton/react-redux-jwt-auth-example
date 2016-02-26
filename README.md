@@ -13,8 +13,7 @@ kind of production environment.
 ````
 1. git clone https://github.com/joshgeller/react-redux-jwt-auth-example.git
 2. npm install
-3. export NODE_ENV=development
-4. node server.js
+3. npm run dev
 ````
 Then visit `localhost:3000` in your browser.
 
